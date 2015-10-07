@@ -1,4 +1,4 @@
-package me.walmyrcarvalho.rxjavastudy;
+package me.walmyrcarvalho.rxjavastudy.activities;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
@@ -6,7 +6,9 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 
-public class MainActivity extends AppCompatActivity {
+import me.walmyrcarvalho.rxjavastudy.R;
+
+public class ExercisesListActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

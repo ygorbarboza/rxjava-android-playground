@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">RxJava Study</string>
 
-    <string name="title_list_examples">RxJava Exercises</string>
+    <string name="title_list_examples">List of Exercises</string>
     <string name="subtitle_list_examples">Choose one example to learn more</string>
 
     <string name="title_example_details">Details of exercise</string>

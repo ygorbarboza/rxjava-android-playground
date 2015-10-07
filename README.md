@@ -1,2 +1,2 @@
 # rxjava-android-playground
-Playing with RxJava and RxAndroid, for learning purposes
+Playing with RxJava, RxAndroid, RxBindings, RxLifecycle and other Rx related libraries on Android, just for learning purposes

@@ -19,6 +19,8 @@ public class ExercisesListActivity extends AppCompatActivity {
         toolbar.setTitle(R.string.title_list_examples);
         toolbar.setSubtitle(R.string.subtitle_list_examples);
 
+//        This is a test
+
         setSupportActionBar(toolbar);
     }
 

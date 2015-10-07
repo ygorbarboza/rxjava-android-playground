@@ -2,7 +2,7 @@
 
 ### Purpose
 
-This project it's just a study one, for playing with RxJava, RxAndroid, RxBindings, RxLifecycle and other Rx related libraries on Android, just for learning purposes
+This project is just a study one, for playing with RxJava, RxAndroid, RxBindings, RxLifecycle and other Rx related libraries on Android, just for learning purposes.
 
 ### What I can find here?
 Right now? Nothing :( but my plan is to demonstrate:
@@ -15,6 +15,9 @@ Right now? Nothing :( but my plan is to demonstrate:
 
 ### List of exercises
 I'll update this section as soon as I have new stuff coming!
+
+### How can I help?
+If you found something wrong or want to help in someway, make an PR or create an issue, it will help me to learn more about it!
 
 ---
 

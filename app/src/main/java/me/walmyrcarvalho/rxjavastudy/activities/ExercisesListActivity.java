@@ -1,5 +1,6 @@
 package me.walmyrcarvalho.rxjavastudy.activities;
 
+import android.app.Application;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
@@ -18,8 +19,6 @@ public class ExercisesListActivity extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         toolbar.setTitle(R.string.title_list_examples);
         toolbar.setSubtitle(R.string.subtitle_list_examples);
-
-//        This is a test 2
 
         setSupportActionBar(toolbar);
     }

@@ -1,5 +1,7 @@
 ## RxJava Android Playground
 
+![](/art/ic_launcher.png)
+
 ### Purpose
 
 This project is just a study one, for playing with RxJava, RxAndroid, RxBindings, RxLifecycle and other Rx related libraries on Android, just for learning purposes.

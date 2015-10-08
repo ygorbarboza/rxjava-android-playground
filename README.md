@@ -1,4 +1,5 @@
 ## RxJava Android Playground
+RxJava and RxAndroid real examples and use cases!
 
 ![](/art/ic_launcher.png)
 

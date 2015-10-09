@@ -20,7 +20,7 @@ Right now? Nothing :( but my plan is to demonstrate:
 I'll update this section as soon as I have new stuff coming!
 
 ### Links that I'm using to learn
-	* Articles | Sites
+* Articles | Sites
 	* [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) - A gist by André Staltz with a very good introduction about Reactive Programming for who's starting to learn (like me)
 	* [Grokking RxJava](http://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/) - Really simple guide about RxJava form Dan Lew
 	* [RxMarbles](http://www.rxmarbles.com) - Interactive website to see how Rx operators works with real stream examples

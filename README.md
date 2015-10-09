@@ -20,10 +20,13 @@ Right now? Nothing :( but my plan is to demonstrate:
 I'll update this section as soon as I have new stuff coming!
 
 ### Links that I'm using to learn
-
-* [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) - A gist by André Staltz with a very good introduction about Reactive Programming for who's starting to learn (like me)
-* [RxMarbles](http://www.rxmarbles.com) - Interactive website to see how Rx operators works with real stream examples
-* [RxJava for Android App Development (Free Ebook)](http://www.oreilly.com/programming/free/rxjava-for-android-app-development.csp) - A free book by K. Matt Dupree with a quick introduction about how to use RxJava for Android development
+* Articles | Sites
+	* [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) - A gist by André Staltz with a very good introduction about Reactive Programming for who's starting to learn (like me)
+	* [RxMarbles](http://www.rxmarbles.com) - Interactive website to see how Rx operators works with real stream examples
+* Books
+	* [RxJava for Android App Development](http://www.oreilly.com/programming/free/rxjava-for-android-app-development.csp) - A free book by K. Matt Dupree with a quick introduction about how to use RxJava for Android development
+* Talks
+	* [Reactive Android - Benjamin Augustin (QCon)](http://www.infoq.com/presentations/reactive-android) - Talk on QCon about RxJava for Android, by Benjamin Augustin (Novoda)
 
 ### How can I help?
 If you found something wrong or want to help in someway, make an PR or create an issue, it will help me to learn more about it!

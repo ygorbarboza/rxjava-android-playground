@@ -21,8 +21,12 @@ I'll update this section as soon as I have new stuff coming!
 
 ### Links that I'm using to learn
 * Articles | Sites
+	* Articles | Sites
 	* [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) - A gist by André Staltz with a very good introduction about Reactive Programming for who's starting to learn (like me)
+	* [Grokking RxJava](http://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/) - Really simple guide about RxJava form Dan Lew
 	* [RxMarbles](http://www.rxmarbles.com) - Interactive website to see how Rx operators works with real stream examples
+	* [Party tricks with RxJava, RxAndroid & Retrolambda](https://medium.com/swlh/party-tricks-with-rxjava-rxandroid-retrolambda-1b06ed7cd29c) - Example of things you can do with RxAndroid from basic to more advanced
+	* [Learning RxJava for Android by example](https://github.com/kaushikgopal/RxJava-Android-Samples) - Part of Kaushik Gopal Talk about RxAndroid with really cool examples using RxBinding and more
 * Books
 	* [RxJava for Android App Development](http://www.oreilly.com/programming/free/rxjava-for-android-app-development.csp) - A free book by K. Matt Dupree with a quick introduction about how to use RxJava for Android development
 * Talks
